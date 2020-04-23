@@ -3,6 +3,6 @@ package com.fanfeifan.test;
 public class Test1 {
 
 	public static void main(String[] args) {
-		System.out.println("helloWord");
+		System.out.println("helloWord123");
 	}
 }
